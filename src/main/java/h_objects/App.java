@@ -13,6 +13,8 @@ public class App {
         IPriceable caravaggio = new Paint(3, 3);
         double caravaggioPrice = caravaggio.getPrice();
 
+        System.out.println("Number of paints: " + Paint.paintCounter);
+
         IPriceable venus = new Sculpture(150);
         double venusPrice = venus.getPrice();
 
