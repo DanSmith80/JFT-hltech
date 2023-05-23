@@ -1,6 +1,7 @@
 package h_objects;
 
 public interface IPriceable {
+<<<<<<< HEAD
 
 //    Create an IPriceable interface that defines getPrice()
 //    Modify the Paint class to implement the IPriceable interface
@@ -8,4 +9,7 @@ public interface IPriceable {
 
     public int getPrice();
 
+=======
+    public double getPrice();
+>>>>>>> origin/main
 }

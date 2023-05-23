@@ -1,6 +1,7 @@
 package a_introduction;
 
-public class Task5 {
+public class MyFile {
+
     public static void main(String[] args) {
     }
 }
