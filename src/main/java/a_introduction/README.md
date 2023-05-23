@@ -9,7 +9,7 @@ In class `Task1` create variables with types:
 - char b 
 - double c
 - long d
-- bool e
+- boolean e
 
 Set them to proper values.
 
@@ -25,7 +25,7 @@ What happened?
 ```java
 double y = 0.1;
 double z = 0.2;
-bool areEquals = y + z == 0.3;
+boolean areEquals = y + z == 0.3;
 ```
  
 Is `0.1 + 0.2` equal `0.3` (in Java)?
